@@ -1,5 +1,5 @@
 👋 Hi, I’m @Ansh757, currently a student at the University of Toronto, Computer Science Specialist.
-👀 I’m interested in Artificial Intelligence, Full-Stack Development/Web Development, Software Development, Thoery of Computer Science
+👀 I’m interested in Artificial Intelligence, Full-Stack Development/Web Development, Software Development, Theory of Computer Science
 🌱 I’m currently learning Front-end Frameworks: Angular, TypeScript, Cloud and Automation Projects. 
 💞️ I’m looking to collaborate on any cool project and fun to work on!
 📫 How to reach me - by email: anshmalhotra2511@gmail.com
